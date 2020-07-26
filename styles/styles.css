@@ -1,0 +1,44 @@
+.header{
+    background-image: url("https://images2.alphacoders.com/602/602223.jpg");
+    color: white;
+    font-size: larger;
+}
+
+.HEADERLINK{
+	font-size: 1.15em;
+	font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.HEADERLINK:hover{
+	font-size: 1.15em;
+	font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
+
+.LINK{
+    color: white;
+    text-decoration: none;
+}
+
+.LINK:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.BLACKLINK{
+    color: black;
+    text-decoration: none;
+}
+
+.BLACKLINK:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+}

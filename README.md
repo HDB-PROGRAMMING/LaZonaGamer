@@ -1,0 +1,2 @@
+# La Zona Gamer, el lugar de todo jugador
+Bienvenid@s tod@s a La Zona Gamer, el lugar de todo jugador; no importa si juegas en PC o en consola (incluso si juegas en Linux), aquí te traemos reviews de juegos de todos los tiempos, desde NES hasta PS5, desde MS-DOS hasta distros Linux basadas en Debian, no importa donde juegues, La Zona Gamer tiene reviews y juegos para tí, así que si te gustan los videojuegos, este es el sitio indicado para tí y ya de paso, te puedes pasar por nustro servidor de Discord, para que podáis hablar de videojuegos con gente tan apasionada como tú.
